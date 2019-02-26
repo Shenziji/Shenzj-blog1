@@ -1,0 +1,20 @@
+{
+  "name": "Shenzj-blog1",
+  "version": "1.0.0",
+  "description": "Shenzj-blog1_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shenziji/Shenzj-blog1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shenziji/Shenzj-blog1/issues"
+  },
+  "homepage": "https://github.com/Shenziji/Shenzj-blog1#readme"
+}
